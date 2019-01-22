@@ -1,7 +1,7 @@
 Just all the css and js you need from Bootstrap4 to implement their
 collapse functionality.
 
-See documentation here: https://getbootstrap.com/docs/4.0/components/collapse/s
+See documentation here: https://getbootstrap.com/docs/4.0/components/collapse/
 
 To re-create from scratch, run `npm install`
 followed by `gulp build`. This creates 4 files:
